@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot UI</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>Wise Well</h2>
+        </div>
+        <div class="chat-box" id="chat-box">
+            <!-- Chat messages will be appended here -->
+        </div>
+        <div class="chat-input-container">
+            <input type="text" id="user-input" placeholder="Type a message..." autocomplete="off" onkeydown="checkEnter(event)">
+            <button class="send-btn" onclick="sendMessage()">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M2.01 21l20.99-9-21-9-.01 7 15 2-15 2z"/></svg>
+            </button>
+        </div>
+        <div class="disclaimer">
+            Wise Well is an AI and can make mistakes. Take advice from doctors as well.
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
