@@ -56,7 +56,13 @@ This project addresses challenges in healthcare accessibility, particularly in u
 
 ## Results
 - **Question Answering (QA)**
-  - 
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/QA%20Results%20.png)
+- **Summarization**
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/Summarization%20Results.png)
+- **Entity Linking (EL)**
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/EL%20Results.png)
+- **Named Entity Recognition (NER)**
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/NER%20Result.png)     
 
 ## Installation
 
