@@ -64,13 +64,4 @@ This project addresses challenges in healthcare accessibility, particularly in u
 - **Named Entity Recognition (NER)**
   - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/NER%20Result.png)     
 
-## Installation
 
-### Prerequisites
-- Python >= 3.8
-- Pip package manager
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/WiseWell.git
