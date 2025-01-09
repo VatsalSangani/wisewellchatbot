@@ -68,7 +68,12 @@ This project addresses challenges in healthcare accessibility, particularly in u
 
 ## User Interface Screenshots
 - **Asking Consent**
-  
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/UI%20SS%201.png)
 - **Conversation**
-
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/UI%20SS%207.png)
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/UI%20SS%203.png)
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/UI%20SS%204.png)
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/UI%20SS%205.png)
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/UI%20SS%206.png)
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/UI%20SS%202.png)
 
