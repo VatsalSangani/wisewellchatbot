@@ -1,0 +1,70 @@
+# Wise Well: A Healthcare Chatbot
+
+## Description
+
+**Wise Well** is an AI-driven healthcare chatbot developed using the **BioBART v2** NLP framework. Designed for the biomedical domain, the chatbot provides contextually accurate and timely responses to medical queries. It tackles tasks like **Question Answering (QA)**, **Summarization**, **Entity Linking (EL)**, and **Named Entity Recognition (NER)** to enhance accessibility, scalability, and reliability in healthcare.
+
+This project addresses challenges in healthcare accessibility, particularly in underserved regions, and demonstrates how AI can bridge the gap between patients and healthcare providers.
+
+---
+
+## Features
+
+### Core Functionalities
+1. **Question Answering (QA)**:
+   - Accurate responses to complex medical queries.
+   - Fine-tuned on datasets like **BioASQ** and **MedQuAD**.
+
+2. **Summarization**:
+   - Condenses extensive medical texts into concise, meaningful summaries.
+   - Trained on **iCliniq** and **HealthcareMagic** datasets.
+
+3. **Entity Linking (EL)**:
+   - Maps medical entities to standardized vocabularies (e.g., SNOMED-CT).
+   - Fine-tuned on **AskAPatient** and **CADEC** datasets.
+
+4. **Named Entity Recognition (NER)**:
+   - Identifies and classifies biomedical entities like diseases and medications.
+   - Leveraged the **GENIA** dataset for training.
+
+### Key Features
+- **Real-Time Interaction**:
+  - Asynchronous processing for instant responses.
+- **User-Friendly Interface**:
+  - Designed with HTML, CSS, and JavaScript for seamless interactions.
+- **Scalable Design**:
+  - Backend powered by **FastAPI**, ready for cloud deployment.
+
+---
+
+## Technologies Used
+
+### Frameworks and Libraries
+- **Python**:
+  - NLP: Transformers (Hugging Face), BioBART v2, BioBERT.
+  - Backend: FastAPI.
+- **Frontend**:
+  - HTML, CSS, JavaScript.
+
+### Datasets
+- **BioASQ**, **MedQuAD**: For QA tasks.
+- **iCliniq**, **HealthcareMagic**: For Summarization.
+- **AskAPatient**, **CADEC**: For Entity Linking.
+- **GENIA**: For NER.
+
+---
+
+## Results
+- **Question Answering (QA)**
+  - 
+
+## Installation
+
+### Prerequisites
+- Python >= 3.8
+- Pip package manager
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/WiseWell.git
