@@ -62,6 +62,13 @@ This project addresses challenges in healthcare accessibility, particularly in u
 - **Entity Linking (EL)**
   - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/EL%20Results.png)
 - **Named Entity Recognition (NER)**
-  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/NER%20Result.png)     
+  - ![Alt Text](https://github.com/VatsalSangani/wisewellchatbot/blob/main/NER%20Result.png)
+ 
+---
+
+## User Interface Screenshots
+- **Asking Consent**
+  
+- **Conversation**
 
 
