@@ -5,7 +5,7 @@
 **Wise Well** is an AI-driven healthcare chatbot developed using the **BioBART v2** NLP framework. Designed for the biomedical domain, the chatbot provides contextually accurate and timely responses to medical queries. It tackles tasks like **Question Answering (QA)**, **Summarization**, **Entity Linking (EL)**, and **Named Entity Recognition (NER)** to enhance accessibility, scalability, and reliability in healthcare.
 
 This project addresses challenges in healthcare accessibility, particularly in underserved regions, and demonstrates how AI can bridge the gap between patients and healthcare providers.
-
+Here is Full Detailed Analysis of my Project [->] (https://drive.google.com/file/d/1ucEQ1LRTqdAbWjcJbxGy9SoE2CgrBLEN/view?usp=drive_link)
 ---
 
 ## Features
