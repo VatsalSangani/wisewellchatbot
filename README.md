@@ -11,7 +11,7 @@ Here is Full Detailed Analysis of my Project [->](https://drive.google.com/file/
 
 ## Lite Version of Wise Well Chatbot
 
-Due to huge resource requirement for this model to be deployed I have made lite version of my project which is deployed here [Wise-Well-Chatbot-Lite](http://13.134.107.196:8090/wiswell). I have also made a github repository for this lite version which is the [Wise-Well-Chatbot-Lite-Repo](https://github.com/VatsalSangani/Wise_Well_Chatbot_Lite) for you to understand the logic behind that version.
+Due to huge resource requirement for this model to be deployed I have made lite version of my project which is deployed here [Wise-Well-Chatbot-Lite](https://46kclo66ry2ptmxgwckb6ben4a0mdfsq.lambda-url.eu-west-2.on.aws/?p=wiswell). I have also made a github repository for this lite version which is the [Wise-Well-Chatbot-Lite-Repo](https://github.com/VatsalSangani/Wise_Well_Chatbot_Lite) for you to understand the logic behind that version.
 
 ---
 
